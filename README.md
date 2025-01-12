@@ -1,4 +1,4 @@
-![Github Banner](https://media.licdn.com/dms/image/v2/C4E16AQH7oaZsDtDmUA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1662506158639?e=2147483647&v=beta&t=rlsz5ip0DNj1KiOuhqgJYz8L_0YfDTA8_AEcekffACs)
+![Github Banner](https://adminvc.ucla.edu/sites/default/files/styles/sf_hero_banner_molecule/public/media/images/220713_UCLABanners_-4.jpg?h=e459f0e1&itok=pGYJAw6m)
 ## Hi there 👋
 
 <!--
