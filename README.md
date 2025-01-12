@@ -11,7 +11,7 @@ I am an **AI/ML specialist**, aspiring to work in Computer Vision and Robotics r
 > [!IMPORTANT]
 > Winner of the **2024 Google Gemini API Developer Competition**, recieved a custom 1981 Electric DeLorean + 60k cash grand prize from Google 
 >
-> Beat over 𝟑,𝟏𝟎𝟎 submissions from over 45,500 developers from 119 countries
+> Beat over 𝟑,𝟏𝟎𝟎 submissions from over 45,500 developers from 119 countries.
 > Jayu is a next-generation AI agent that can directly interact with your computer screen. From controlling applications to writing code to giving live translations, Jayu was meant to show the world what Google Gemini is TRULY capable of.
 > 
 > See my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7265418646028447745/) for more information!
