@@ -4,8 +4,9 @@
 
 I am an **AI/ML specialist**, aspiring to work in Computer Vision and Robotics research after college. I have experience in Web Development, iOS App Development, VideoGame Modding, and more!
 
+<br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=My+Track+Record%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=My+Track+Record)](https://git.io/typing-svg)
 ---
 > [!IMPORTANT]
 > Winner of the **2024 Google Gemini API Developer Competition**, recieved a custom 1981 Electric DeLorean + 60k cash grand prize from Google 
@@ -24,17 +25,18 @@ I am an **AI/ML specialist**, aspiring to work in Computer Vision and Robotics r
 - Current **President** of GLITCH, UCLA's Premier Hackathon Club
 - Current **ACM Board Member** at [UCLA's ACM Branch](https://www.uclaacm.com/)
 
----
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; margin-right: 20px;">
-<!--     temp placeholder -->
-  </div>
-  <div style="flex: 1;">
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonOuyang&layout=compact&theme=dark" alt="top-langs" />
-    </p>
-  </div>
-</div>
+## My Tech
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonOuyang&layout=compact&theme=dark" alt="top-langs" />
+
+**Languages:** Python, C/C++, Java, JavaScript, TypeScript, Swift, SQL
+
+**Backend:** Django, Flask, FastAPI, Pinecone, MongoDB
+
+**Frontend:** React, Vue.js, Bootstrap, Tailwind
+
+**AI/ML:** Tensorflow, PyTorch, Keras, Pandas, Numpy
+
+<br />
 
 ---
 
@@ -54,7 +56,6 @@ I am an **AI/ML specialist**, aspiring to work in Computer Vision and Robotics r
   </div> 
 </p>
 <!--
-**JonOuyang/JonOuyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
