@@ -1,4 +1,4 @@
-![Github Banner](https://images.squarespace-cdn.com/content/v1/60a6da4203324b14cb6c04d1/17a1baa8-eacb-4542-ab8c-4149b3db54ed/UCLA+Royce+Hall%2C+Los+Angeles%2C+CA+%282%29.jpg)
+![Github Banner]([https://images.squarespace-cdn.com/content/v1/60a6da4203324b14cb6c04d1/17a1baa8-eacb-4542-ab8c-4149b3db54ed/UCLA+Royce+Hall%2C+Los+Angeles%2C+CA+%282%29.jpg](https://media.licdn.com/dms/image/v2/C4E16AQH7oaZsDtDmUA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1662506158639?e=2147483647&v=beta&t=rlsz5ip0DNj1KiOuhqgJYz8L_0YfDTA8_AEcekffACs))
 ## Hi there 👋
 
 <!--
