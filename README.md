@@ -1,3 +1,4 @@
+![Github Banner](https://images.squarespace-cdn.com/content/v1/60a6da4203324b14cb6c04d1/17a1baa8-eacb-4542-ab8c-4149b3db54ed/UCLA+Royce+Hall%2C+Los+Angeles%2C+CA+%282%29.jpg)
 ## Hi there 👋
 
 <!--
