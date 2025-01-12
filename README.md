@@ -1,4 +1,4 @@
-![Github Banner](https://adminvc.ucla.edu/sites/default/files/styles/sf_hero_banner_molecule/public/media/images/220713_UCLABanners_-4.jpg?h=e459f0e1&itok=pGYJAw6m)
+![Github Banner](https://github.com/user-attachments/assets/d3ca1336-8807-4419-9270-3372f6c6e41c)
 ## Hi there 👋
 
 <!--
