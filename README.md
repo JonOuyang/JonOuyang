@@ -16,16 +16,17 @@ I am an **AI/ML specialist**, aspiring to work in Computer Vision and Robotics r
 > 
 > See my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7265418646028447745/) for more information!
 
-## Affiliations
-- Current Visiting Researcher at the [Stanford ILIAD Group](https://iliad.stanford.edu/), exploring shared autonomy in driving
-- Current Undergrad Researcher at the [UCLA Robot Intelligence Lab](https://ucla-robot-intelligence-lab.github.io/index.html), exploring robot policy learning techniques
-- Current Visiting Researcher at the SJSU AI/DL FPGA/DSP Lab [(see my papers here)](https://ieeexplore.ieee.org/author/191417838355160)
-- Prev Research Advisor at the SJSU AI/DL FPGA/DSP Lab
+## Research Positions
 
-  
+* Current Visiting Researcher at the [Stanford ILIAD Group](https://iliad.stanford.edu/), exploring shared autonomy in driving
+* Current Undergrad Researcher at the [UCLA Robot Intelligence Lab](https://ucla-robot-intelligence-lab.github.io/index.html), exploring robot policy learning techniques
+* Current Visiting Researcher at the SJSU AI/DL FPGA/DSP Lab [(see my papers here)](https://ieeexplore.ieee.org/author/191417838355160)
+* Prev Research Advisor at the SJSU AI/DL FPGA/DSP Lab
+
+## Affiliations
+
 - Current Software Engineer at the [UCLA Daily Bruin Newspaper](https://dailybruin.com/), working on an AI chatbot for the website
 - Prev Computer Vision Intern at [Sighthound](https://www.sighthound.com/), Inc. working on image recognition and classification pipelines
-
 
 - Current **President** of GLITCH, UCLA's Premier Hackathon Club
 - Current **ACM Board Member** at [UCLA's ACM Branch](https://www.uclaacm.com/)
