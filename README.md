@@ -28,9 +28,9 @@ I am an **AI/ML specialist**, aspiring to work in Computer Vision and Robotics r
 - Current Software Engineer at the [UCLA Daily Bruin Newspaper](https://dailybruin.com/), working on an AI chatbot for the website
 - Prev Computer Vision Intern at [Sighthound](https://www.sighthound.com/), Inc. working on image recognition and classification pipelines
 
-- Current **President** of GLITCH, UCLA's Premier Hackathon Club
-- Current **ACM Board Member** at [UCLA's ACM Branch](https://www.uclaacm.com/)
-- Current **Project Associate** at VEST @ UCLA
+- Current **President** of [GLITCH, UCLA's Premier Hackathon Club](glitchclub.org)
+- Current **ACM Operations Director** at [UCLA's ACM Branch](https://www.uclaacm.com/)
+- Current **Project Associate & Technical Recruiter** at VEST @ UCLA
 
 ## My Tech
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonOuyang&layout=compact&theme=dark" alt="top-langs" />
