@@ -6,4 +6,4 @@ I am an undergraduate studying Computer Science at UCLA.
 
 I specialize in AI/ML applications, having done Robotic Manipulation/Perception research at [UCLA RIL](https://ucla-robot-intelligence-lab.github.io/) and AI Assisted Learning Paradigms at [Stanford ILIAD](https://iliad.stanford.edu/). I also built [Jayu](https://www.jonathanouyang.com/projects), an early Gemini Computer Use Agent prototype. I previously worked at Amazon as an SDE Summer intern, and am currently working at a Stealth Startup as a Founding ML Engineer! 
 
-See my [portfolio](jonathanouyang.com) for more info about me, or reach out to me @ jonsouyang@ucla.edu!
+See my [portfolio](https://www.jonathanouyang.com/) for more info about me, or reach out to me @ jonsouyang@ucla.edu!
