@@ -2,7 +2,7 @@
 
 
 > [!IMPORTANT]  
-> I will be joining Google DeepMind on the AI Studio & Gemini API team this summer at Google HQ, Mountain View! Catch me in the bay!
+> I will be joining Google DeepMind on the AI Studio & Gemini API team this summer! Catch me in the bay!
 
 <div />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonOuyang&layout=compact&theme=dark" alt="top-langs" />
