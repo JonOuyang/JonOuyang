@@ -8,7 +8,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonOuyang&layout=compact&theme=dark" alt="top-langs" />
   
 
-I specialize in agentic applications in both virtual and embodied systems. I am a researcher at **Stanford ILIAD Group**, **UCLA Robot Intelligence Lab**, and previously a graduate research advisor at **SJSU AI/DL Lab**, and incoming computer vision researcher at a Stealth Startup. Also previously an SDE intern at Amazon.
+I love Robots and Ramen. See my Portfolio for more info, or reach out to me at [jonsouyang@ucla.edu](jonsouyang@ucla.edu). 
+
 
 <br />
 
