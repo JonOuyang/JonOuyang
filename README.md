@@ -8,7 +8,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonOuyang&layout=compact&theme=dark" alt="top-langs" />
   
 
-I love Robots and Ramen. See my Portfolio for more info, or reach out to me at [jonsouyang@ucla.edu](jonsouyang@ucla.edu). 
+See my Portfolio for more info, or reach out to me at [jonsouyang@ucla.edu](jonsouyang@ucla.edu). 
 
 
 <br />
